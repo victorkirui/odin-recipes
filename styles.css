@@ -1,0 +1,23 @@
+body{
+    margin:30px !important;
+}
+h1{
+    display: inline-block;
+    padding:0 30px 8px 0;
+}
+.home{
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+    border-radius: 8px;
+    width: 80px;
+    padding:10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.img{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
