@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 30px 0;
 }
 .home {
   background-color: orange;
@@ -29,6 +30,9 @@ body {
   letter-spacing: 1px;
   text-align: center;
   cursor: pointer;
+}
+.section {
+  margin: 60px 0;
 }
 .img {
   margin-top: 25px;

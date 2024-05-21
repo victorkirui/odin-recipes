@@ -27,16 +27,18 @@ ul li {
   max-width: 600px;
 }
 ul li:hover {
-  background-color: yellow;
+  background-color: rgb(224, 226, 226);
 }
 ul li:hover a {
-  color: black;
+  color: orange;
 }
 ul li a {
   text-decoration: none;
+  display: flex;
+  align-items: center;
   font-size: 30px;
-  color: orange;
-  font-weight: BOLD;
+  color: black;
+  font-weight: bold;
 }
 
 .thumbnail {
