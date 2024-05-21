@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+.container {
+  max-width: 70%;
+  margin: auto;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+ul {
+  padding: 0;
+  margin: auto;
+}
+ul li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  cursor: pointer;
+  background-color: white;
+  max-width: 600px;
+}
+ul li:hover {
+  background-color: yellow;
+}
+ul li:hover a {
+  color: black;
+}
+ul li a {
+  text-decoration: none;
+  font-size: 30px;
+  color: orange;
+  font-weight: BOLD;
+}
+
+.thumbnail {
+  width: 100px;
+  height: auto;
+  margin-right: 20px;
+}
